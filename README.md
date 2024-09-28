@@ -1,4 +1,7 @@
 # II-Pract1
+## GIF
+
+## Descripción del Trabajo
 Para cumplir con los objetivos de la práctica se siguieron los siguientes pasos:
 1. Se creo un Cerdo con objetos 3D básicos.
 2. Se introdujo usando el Packet Manager el paquete de Starter Assets.
