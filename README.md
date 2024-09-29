@@ -1,6 +1,6 @@
 # II-Pract1
 ## GIF
-
+![](https://github.com/alu0101493084/II-Pract1/blob/main/Ejecuci%C3%B3n.gif)
 ## Descripción del Trabajo
 Para cumplir con los objetivos de la práctica se siguieron los siguientes pasos:
 1. Se creo un Cerdo con objetos 3D básicos.
